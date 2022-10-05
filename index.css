@@ -3,18 +3,15 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-weight: bold;
+    color: aliceblue;
 }
-ul{
+ul,td{
     list-style-type: lower-alpha;
     list-style-type: square;
     color:white;
 }
 
-.main{
-font-size: large;
-color:white;
 
-}
 body {
     background-image: url('developer.jpg');
 }
